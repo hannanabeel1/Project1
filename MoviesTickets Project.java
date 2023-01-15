@@ -38,7 +38,7 @@ public class MovieTickets {
         int MovieChoice = input.nextInt() - 1;
         System.out.println("Theater for the selected movie is: " + Movies[MovieChoice][1]);
         System.out.println("Tickets cost for the selected movie is: " + TicketsCost * NumOfTickets);
-        System.out.println("Enjoy With Your Movie");
+        System.out.println("Enjoy Your Movie");
         System.out.println("Create by 'Hanna , Ahmad'");
         System.out.println("Dr. Yousef Sanjalawe: " + "Programming Fundamental");
     }
